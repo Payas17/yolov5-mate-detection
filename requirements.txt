@@ -1,0 +1,13 @@
+notebook
+opencv-python
+h5py
+tqdm
+imutils
+matplotlib
+numpy
+plotly
+pandas
+tensorflow==2.5.0
+keras==2.0.8
+imgaug==0.2.5
+tensorboard==2.5.0
